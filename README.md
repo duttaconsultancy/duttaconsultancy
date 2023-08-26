@@ -1,6 +1,6 @@
 ### Hi there 👋
-This is Prabal Dutta
-Working As a consultant at DUTTA CONSULTANCY
+
+Finance is a term for matters regarding the management, creation, and study of money and investments. It involves the use of credit and debt, securities, and investment to finance current projects using future income flows. Because of this temporal aspect, finance is closely linked to the time value of money, interest rates, and other related topics.
 <!--
 **duttaconsultancy/duttaconsultancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
