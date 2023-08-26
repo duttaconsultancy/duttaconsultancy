@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is Prabal Dutta
+Working As a consultant at DUTTA CONSULTANCY
 <!--
 **duttaconsultancy/duttaconsultancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
